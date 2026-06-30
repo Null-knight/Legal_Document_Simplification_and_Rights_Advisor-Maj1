@@ -156,7 +156,7 @@ ollama --version
 ollama pull llama3.1:8b
 ```
 
-(Replace with the model configured by your project if different.)
+(Replace with the model configured by your necessity if different.)
 
 7. Start the Ollama service:
 
@@ -168,35 +168,26 @@ ollama serve
 
 ---
 
-# ⚙ Installation
+## Setup
 
 ```powershell
-git clone <repository-url>
-
-cd Legal_advisor
-
+cd C:\Users\Rahul\Desktop\Legal_advisor
 python -m venv .venv
-
 .\.venv\Scripts\Activate.ps1
-
 pip install -r backend\requirements.txt
-
 pip install -r frontend\requirements.txt
-
 Copy-Item backend\.env.example backend\.env
 ```
 
----
-
-# 📚 Build the Knowledge Base
-
-Initial indexing:
+## Index Seed Knowledge Base
 
 ```powershell
 python scripts\init_knowledge_base.py
 ```
 
-Rebuild everything:
+This indexes both `backend\app\data\knowledge_base` and `backend\app\data\legal_knowledge_base`.
+
+To rebuild legal-source SQLite rows and ChromaDB from scratch:
 
 ```powershell
 python scripts\init_knowledge_base.py --reset
@@ -229,8 +220,11 @@ Swagger:
 http://127.0.0.1:8000/docs
 
 ## Step 3 — Start Frontend
+Open a second terminal:
 
 ```powershell
+cd C:\Users\Rahul\Desktop\Legal_advisor
+.\.venv\Scripts\Activate.ps1
 streamlit run frontend\app.py
 ```
 
@@ -336,23 +330,6 @@ It does **not** replace professional legal advice. Always consult a qualified le
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Test the project.
-5. Submit a Pull Request.
-
----
-
-# 📄 License
-
-This project is released for **educational and research purposes**.
-
----
 
 # 🙏 Acknowledgements
 
