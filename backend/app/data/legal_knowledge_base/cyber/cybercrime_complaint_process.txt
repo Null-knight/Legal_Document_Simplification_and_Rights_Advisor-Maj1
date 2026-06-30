@@ -1,0 +1,52 @@
+TITLE: Cybercrime Complaint Process
+DOMAIN: CYBER
+CATEGORY: Legal Procedures
+TOPICS: cybercrime complaint, online fraud, cyber reporting, digital crime, internet fraud, cybersecurity
+
+OVERVIEW:
+Victims of cybercrime may report incidents through official cybercrime reporting systems and local law enforcement channels where appropriate.
+
+COMMON CYBERCRIMES:
+
+- Online fraud
+- UPI fraud
+- Identity theft
+- Cyber bullying
+- Online blackmail
+- Social media account compromise
+
+STEP-BY-STEP PROCESS:
+
+STEP 1:
+Collect evidence related to the incident.
+
+STEP 2:
+Record transaction IDs, screenshots, URLs, and communication records.
+
+STEP 3:
+Submit a complaint through official cybercrime reporting channels.
+
+STEP 4:
+Keep complaint reference numbers for future follow-up.
+
+STEP 5:
+Cooperate with investigators if additional information is requested.
+
+IMPORTANT EVIDENCE:
+
+- Screenshots
+- Emails
+- Chat messages
+- Transaction records
+- Phone numbers
+- Website URLs
+
+BEST PRACTICES:
+
+- Act quickly.
+- Preserve evidence.
+- Avoid deleting messages.
+- Document all events chronologically.
+
+DISCLAIMER:
+This document is intended for educational and informational purposes only and does not constitute legal advice.

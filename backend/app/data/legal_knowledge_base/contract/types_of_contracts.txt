@@ -1,0 +1,366 @@
+﻿Title: Common Types of Contracts
+
+DOMAIN: CONTRACT
+TOPICS: types of contracts, written contract, oral contract, implied contract
+
+Category:
+Contract Law
+
+Overview:
+
+Contracts are used in many areas of daily life, business, employment, property, and digital services. Although contracts may differ in purpose, they all establish legal rights and responsibilities between the parties involved.
+
+Understanding the type of contract helps determine the rights, obligations, and legal remedies available if a dispute arises.
+
+------------------------------------------------------------
+
+1. Employment Contract
+
+Purpose:
+
+Defines the relationship between an employer and an employee.
+
+Common Terms:
+
+â€¢ Job title
+â€¢ Salary and benefits
+â€¢ Working hours
+â€¢ Leave policy
+â€¢ Probation period
+â€¢ Notice period
+â€¢ Termination conditions
+â€¢ Confidentiality obligations
+
+Example:
+
+A software company hires a developer with a monthly salary of â‚¹50,000 and a one-month notice period.
+
+------------------------------------------------------------
+
+2. Rental or Lease Agreement
+
+Purpose:
+
+Defines the rights and responsibilities of landlords and tenants.
+
+Common Terms:
+
+â€¢ Monthly rent
+â€¢ Security deposit
+â€¢ Property maintenance
+â€¢ Duration of tenancy
+â€¢ Notice period
+â€¢ Eviction rules
+â€¢ Utility responsibilities
+
+Example:
+
+A tenant rents an apartment for one year with a refundable security deposit.
+
+------------------------------------------------------------
+
+3. Service Agreement
+
+Purpose:
+
+Used when one party agrees to provide services for another.
+
+Common Terms:
+
+â€¢ Scope of work
+â€¢ Payment schedule
+â€¢ Project deadlines
+â€¢ Deliverables
+â€¢ Responsibilities
+â€¢ Cancellation terms
+
+Example:
+
+A graphic designer agrees to create a company logo for â‚¹15,000.
+
+------------------------------------------------------------
+
+4. Sale Agreement
+
+Purpose:
+
+Documents the purchase or sale of goods or property.
+
+Common Terms:
+
+â€¢ Purchase price
+â€¢ Delivery conditions
+â€¢ Ownership transfer
+â€¢ Warranty
+â€¢ Payment method
+â€¢ Return policy
+
+Example:
+
+A customer purchases a motorcycle under a written sale agreement.
+
+------------------------------------------------------------
+
+5. Consumer Contract
+
+Purpose:
+
+Protects transactions between businesses and consumers.
+
+Examples:
+
+â€¢ Online shopping
+â€¢ Mobile phone plans
+â€¢ Internet subscriptions
+â€¢ Insurance services
+â€¢ Banking products
+
+Consumer contracts often include refund, replacement, warranty, and service conditions.
+
+------------------------------------------------------------
+
+6. Freelance Contract
+
+Purpose:
+
+Defines work performed by an independent professional.
+
+Common Terms:
+
+â€¢ Project description
+â€¢ Payment milestones
+â€¢ Intellectual property ownership
+â€¢ Delivery deadlines
+â€¢ Revision policy
+â€¢ Termination conditions
+
+Example:
+
+A freelance web developer builds a business website.
+
+------------------------------------------------------------
+
+7. Non-Disclosure Agreement (NDA)
+
+Purpose:
+
+Protects confidential information.
+
+Common Terms:
+
+â€¢ Confidential information
+â€¢ Duration of confidentiality
+â€¢ Permitted disclosure
+â€¢ Exceptions
+â€¢ Legal consequences of disclosure
+
+Example:
+
+An employee signs an NDA before joining a technology company.
+
+------------------------------------------------------------
+
+8. Partnership Agreement
+
+Purpose:
+
+Defines how two or more people operate a business together.
+
+Common Terms:
+
+â€¢ Ownership shares
+â€¢ Profit distribution
+â€¢ Responsibilities
+â€¢ Decision-making process
+â€¢ Admission of new partners
+â€¢ Exit procedure
+
+------------------------------------------------------------
+
+9. Loan Agreement
+
+Purpose:
+
+Records money borrowed and repayment obligations.
+
+Common Terms:
+
+â€¢ Loan amount
+â€¢ Interest
+â€¢ Repayment schedule
+â€¢ Default provisions
+â€¢ Security (if any)
+
+------------------------------------------------------------
+
+10. Digital or Online Agreement
+
+Purpose:
+
+Applies to agreements accepted electronically.
+
+Examples:
+
+â€¢ Terms of Service
+â€¢ Privacy Policies
+â€¢ Mobile App Agreements
+â€¢ Cloud Service Agreements
+â€¢ Software Licenses
+
+These agreements are commonly accepted by clicking:
+
+âœ“ "I Agree"
+âœ“ "Accept"
+âœ“ "Continue"
+
+------------------------------------------------------------
+
+11. Business Contract
+
+Purpose:
+
+Used between businesses for commercial transactions.
+
+Examples:
+
+â€¢ Supply agreements
+â€¢ Distribution agreements
+â€¢ Manufacturing agreements
+â€¢ Vendor contracts
+â€¢ Consulting agreements
+
+------------------------------------------------------------
+
+12. Government Contract
+
+Purpose:
+
+Used when government departments enter into agreements for goods or services.
+
+Examples:
+
+â€¢ Construction contracts
+â€¢ Software procurement
+â€¢ Public infrastructure projects
+â€¢ Maintenance contracts
+
+------------------------------------------------------------
+
+Written vs Oral Contracts
+
+Written Contracts
+
+Advantages:
+
+âœ“ Easier to prove.
+âœ“ Clear evidence.
+âœ“ Detailed obligations.
+âœ“ Better dispute resolution.
+
+Oral Contracts
+
+Advantages:
+
+âœ“ Quick.
+âœ“ Flexible.
+
+Limitations:
+
+â€¢ Difficult to prove.
+â€¢ Misunderstandings are more common.
+â€¢ Lack of written evidence may create disputes.
+
+------------------------------------------------------------
+
+Fixed-Term vs Open-Ended Contracts
+
+Fixed-Term
+
+Ends on a specific date.
+
+Example:
+
+One-year employment contract.
+
+Open-Ended
+
+Continues until terminated according to agreed conditions.
+
+------------------------------------------------------------
+
+Why Identifying the Contract Type Matters
+
+Different contract types may involve different legal rights and obligations.
+
+For example:
+
+Employment Contract
+â†’ Labour rights and employment obligations.
+
+Rental Agreement
+â†’ Tenant and landlord rights.
+
+Consumer Contract
+â†’ Consumer protection rights.
+
+Business Agreement
+â†’ Commercial obligations.
+
+Loan Agreement
+â†’ Financial repayment responsibilities.
+
+------------------------------------------------------------
+
+Questions to Ask Before Signing
+
+âœ“ What type of contract is this?
+âœ“ What am I agreeing to?
+âœ“ How long does the agreement last?
+âœ“ Can I terminate it?
+âœ“ What happens if either party fails to perform?
+âœ“ Are there penalties?
+âœ“ Is payment clearly explained?
+âœ“ Who owns the work or property?
+âœ“ How will disputes be resolved?
+
+------------------------------------------------------------
+
+Common Mistakes
+
+âœ— Assuming every contract is the same.
+âœ— Ignoring payment clauses.
+âœ— Ignoring termination conditions.
+âœ— Failing to read online agreements.
+âœ— Signing incomplete documents.
+âœ— Not keeping a signed copy.
+
+------------------------------------------------------------
+
+Example Scenario
+
+Situation:
+
+A freelancer agrees to build an e-commerce website.
+
+Contract Type:
+
+Freelance Service Agreement.
+
+Included Terms:
+
+âœ“ Scope of work
+âœ“ Project deadline
+âœ“ Payment milestones
+âœ“ Ownership of the website
+âœ“ Revision policy
+âœ“ Termination clause
+
+Result:
+
+Both parties clearly understand their rights and responsibilities.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. The legal rights and obligations arising from a contract depend on its wording, applicable law, and the specific facts of each case.

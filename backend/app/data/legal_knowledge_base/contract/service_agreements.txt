@@ -1,0 +1,284 @@
+﻿Title: Service Agreements
+
+DOMAIN: CONTRACT
+TOPICS: service agreement, scope, payment, liability, termination
+
+Category:
+Contract Law
+
+Overview:
+
+A service agreement is a legally binding contract between a service provider and a client. It defines the services to be provided, payment terms, responsibilities, timelines, and the expectations of both parties.
+
+A written service agreement helps reduce misunderstandings and provides evidence if disputes arise.
+
+------------------------------------------------------------
+
+Purpose of a Service Agreement
+
+A service agreement generally aims to:
+
+â€¢ Clearly define the services being provided.
+â€¢ Specify payment terms.
+â€¢ Establish project timelines.
+â€¢ Define responsibilities of both parties.
+â€¢ Explain revision or modification policies.
+â€¢ Protect confidential information.
+â€¢ Define dispute resolution procedures.
+
+------------------------------------------------------------
+
+Common Clauses
+
+A service agreement commonly includes:
+
+âœ“ Names of both parties.
+âœ“ Description of services.
+âœ“ Project scope.
+âœ“ Deliverables.
+âœ“ Timeline.
+âœ“ Payment schedule.
+âœ“ Responsibilities.
+âœ“ Confidentiality clause.
+âœ“ Intellectual property ownership.
+âœ“ Revision policy.
+âœ“ Termination clause.
+âœ“ Dispute resolution.
+
+------------------------------------------------------------
+
+Scope of Work
+
+The agreement should clearly explain:
+
+â€¢ What work will be performed.
+â€¢ What is included.
+â€¢ What is excluded.
+â€¢ Quality expectations.
+â€¢ Deliverables.
+
+A clearly defined scope helps avoid future disagreements.
+
+------------------------------------------------------------
+
+Payment Terms
+
+The agreement should specify:
+
+â€¢ Total project cost.
+â€¢ Advance payment (if any).
+â€¢ Payment milestones.
+â€¢ Final payment.
+â€¢ Payment methods.
+â€¢ Due dates.
+â€¢ Taxes (if applicable).
+
+Always preserve proof of every payment.
+
+------------------------------------------------------------
+
+Project Timeline
+
+The contract should mention:
+
+â€¢ Project start date.
+â€¢ Delivery schedule.
+â€¢ Milestones.
+â€¢ Final completion date.
+â€¢ Delay handling procedures.
+
+------------------------------------------------------------
+
+Client Responsibilities
+
+The client may be responsible for:
+
+âœ“ Providing necessary information.
+âœ“ Approving work on time.
+âœ“ Making payments according to schedule.
+âœ“ Providing required documents.
+âœ“ Responding to project-related questions.
+
+------------------------------------------------------------
+
+Service Provider Responsibilities
+
+The service provider may be responsible for:
+
+âœ“ Performing the agreed work.
+âœ“ Meeting deadlines.
+âœ“ Following agreed specifications.
+âœ“ Maintaining quality standards.
+âœ“ Protecting confidential information.
+âœ“ Reporting project progress.
+
+------------------------------------------------------------
+
+Revision Policy
+
+Many service agreements include:
+
+â€¢ Number of free revisions.
+â€¢ Additional revision charges.
+â€¢ Time allowed for requesting revisions.
+â€¢ Scope of revision work.
+
+------------------------------------------------------------
+
+Confidentiality
+
+Where applicable, both parties may agree to protect confidential information such as:
+
+â€¢ Business data.
+â€¢ Customer information.
+â€¢ Source code.
+â€¢ Designs.
+â€¢ Financial records.
+â€¢ Marketing strategies.
+
+------------------------------------------------------------
+
+Intellectual Property
+
+The agreement should clearly explain:
+
+â€¢ Who owns the completed work.
+â€¢ When ownership transfers.
+â€¢ Whether the service provider may reuse the work.
+â€¢ Copyright ownership.
+â€¢ Licensing arrangements (if any).
+
+------------------------------------------------------------
+
+Termination
+
+The agreement may specify:
+
+â€¢ How either party may terminate the contract.
+â€¢ Required notice.
+â€¢ Outstanding payments.
+â€¢ Return of confidential information.
+â€¢ Completion of unfinished work.
+
+------------------------------------------------------------
+
+Evidence to Preserve
+
+Both parties should keep:
+
+â€¢ Signed agreement.
+â€¢ Invoices.
+â€¢ Payment receipts.
+â€¢ Bank transaction records.
+â€¢ Email communications.
+â€¢ Chat messages.
+â€¢ Work submissions.
+â€¢ Approval records.
+â€¢ Revision requests.
+â€¢ Final deliverables.
+
+------------------------------------------------------------
+
+Before Signing
+
+âœ“ Read every clause.
+âœ“ Verify the scope of work.
+âœ“ Confirm payment schedule.
+âœ“ Review deadlines.
+âœ“ Understand revision policy.
+âœ“ Check ownership of completed work.
+âœ“ Read termination conditions.
+âœ“ Keep a signed copy.
+
+------------------------------------------------------------
+
+Common Mistakes
+
+âœ— Starting work without a written agreement.
+âœ— Accepting unclear project requirements.
+âœ— Ignoring payment milestones.
+âœ— Failing to document revisions.
+âœ— Delivering work without client approval records.
+âœ— Depending only on verbal discussions.
+
+------------------------------------------------------------
+
+Example 1
+
+Situation:
+
+A freelance software developer agrees to build a mobile application.
+
+Agreement Includes:
+
+âœ“ Project duration: 3 months.
+âœ“ Advance payment: 30%.
+âœ“ Three development milestones.
+âœ“ Final payment after delivery.
+âœ“ Source code ownership transferred after full payment.
+
+Result:
+
+Both parties understand their responsibilities and payment obligations.
+
+------------------------------------------------------------
+
+Example 2
+
+Situation:
+
+A graphic designer creates a company logo.
+
+The client requests unlimited revisions despite the contract allowing only three.
+
+Recommended Actions:
+
+âœ“ Review the revision clause.
+âœ“ Preserve all communications.
+âœ“ Explain the agreed revision policy.
+âœ“ Offer additional revisions according to the agreement if applicable.
+
+------------------------------------------------------------
+
+Frequently Asked Questions
+
+Q: Should every service agreement be in writing?
+
+A:
+
+A written agreement provides clear evidence of the agreed services, payment terms, and responsibilities, reducing the likelihood of future disputes.
+
+------------------------------------------------------------
+
+Q: Should I begin work before receiving an advance payment?
+
+A:
+
+That depends on the agreement. Many service providers prefer to begin work only after receiving the agreed advance payment.
+
+------------------------------------------------------------
+
+Q: Who owns the completed work?
+
+A:
+
+Ownership depends on the contract. Some agreements transfer ownership after full payment, while others grant only limited usage rights.
+
+------------------------------------------------------------
+
+Checklist Before Signing
+
+â–¡ Verify project scope.
+â–¡ Confirm payment schedule.
+â–¡ Review milestones.
+â–¡ Understand revision policy.
+â–¡ Read confidentiality clause.
+â–¡ Check intellectual property ownership.
+â–¡ Review termination conditions.
+â–¡ Keep a signed copy.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. Service agreements and related rights depend on the wording of the agreement, applicable law, and the specific facts of each case.

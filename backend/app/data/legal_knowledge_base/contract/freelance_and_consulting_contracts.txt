@@ -1,0 +1,337 @@
+﻿Title: Freelance and Consulting Contracts
+
+DOMAIN: CONTRACT
+TOPICS: freelance contract, consulting agreement, payment, scope of work
+
+Category:
+Contract Law
+
+Overview:
+
+A freelance or consulting contract is a legally binding agreement between an independent professional and a client. Unlike employment contracts, these agreements generally involve the completion of specific services or projects rather than an employer-employee relationship.
+
+A written contract helps both parties clearly understand expectations, payment terms, ownership of work, deadlines, and dispute resolution procedures.
+
+------------------------------------------------------------
+
+Purpose of a Freelance Contract
+
+A freelance agreement generally aims to:
+
+â€¢ Define the work to be performed.
+â€¢ Specify project deliverables.
+â€¢ Establish payment terms.
+â€¢ Set project deadlines.
+â€¢ Clarify ownership of completed work.
+â€¢ Define confidentiality obligations.
+â€¢ Explain termination procedures.
+
+------------------------------------------------------------
+
+Common Users
+
+Freelance agreements are commonly used by:
+
+âœ“ Software developers.
+âœ“ Graphic designers.
+âœ“ Video editors.
+âœ“ Photographers.
+âœ“ Consultants.
+âœ“ Content writers.
+âœ“ Architects.
+âœ“ Digital marketers.
+âœ“ Web developers.
+âœ“ UI/UX designers.
+
+------------------------------------------------------------
+
+Common Clauses
+
+A freelance agreement commonly includes:
+
+âœ“ Names of both parties.
+âœ“ Description of services.
+âœ“ Scope of work.
+âœ“ Deliverables.
+âœ“ Project timeline.
+âœ“ Payment schedule.
+âœ“ Revision policy.
+âœ“ Confidentiality.
+âœ“ Intellectual property ownership.
+âœ“ Termination clause.
+âœ“ Dispute resolution.
+
+------------------------------------------------------------
+
+Scope of Work
+
+The agreement should clearly explain:
+
+â€¢ Services to be provided.
+â€¢ Work included.
+â€¢ Work excluded.
+â€¢ Expected quality.
+â€¢ Final deliverables.
+
+A clearly defined scope reduces misunderstandings.
+
+------------------------------------------------------------
+
+Project Deliverables
+
+Deliverables may include:
+
+âœ“ Software.
+âœ“ Website.
+âœ“ Logo.
+âœ“ Design files.
+âœ“ Marketing campaign.
+âœ“ Technical report.
+âœ“ Mobile application.
+âœ“ Research report.
+âœ“ Documentation.
+
+------------------------------------------------------------
+
+Payment Terms
+
+The agreement should clearly specify:
+
+â€¢ Total project value.
+â€¢ Advance payment.
+â€¢ Milestone payments.
+â€¢ Final payment.
+â€¢ Due dates.
+â€¢ Accepted payment methods.
+â€¢ Applicable taxes.
+
+Keep payment records for every transaction.
+
+------------------------------------------------------------
+
+Project Timeline
+
+The agreement should define:
+
+â€¢ Project start date.
+â€¢ Milestones.
+â€¢ Review dates.
+â€¢ Final delivery date.
+â€¢ Delay procedures.
+
+------------------------------------------------------------
+
+Revision Policy
+
+Many freelance contracts specify:
+
+âœ“ Number of included revisions.
+âœ“ Additional revision charges.
+âœ“ Client response time.
+âœ“ Approval process.
+
+Clearly defining revisions helps prevent project delays.
+
+------------------------------------------------------------
+
+Intellectual Property
+
+The agreement should explain:
+
+â€¢ Who owns the completed work.
+â€¢ Whether ownership transfers after payment.
+â€¢ Copyright ownership.
+â€¢ Licensing rights.
+â€¢ Portfolio usage rights.
+
+Ownership should be stated clearly to avoid future disputes.
+
+------------------------------------------------------------
+
+Confidentiality
+
+Where applicable, freelancers may be required to protect:
+
+â€¢ Source code.
+â€¢ Client documents.
+â€¢ Business strategies.
+â€¢ Customer information.
+â€¢ Financial records.
+â€¢ Product designs.
+
+------------------------------------------------------------
+
+Termination
+
+The agreement should explain:
+
+â€¢ How either party may terminate.
+â€¢ Required notice.
+â€¢ Payment for completed work.
+â€¢ Return of confidential information.
+â€¢ Delivery of partially completed work.
+
+------------------------------------------------------------
+
+Documents to Preserve
+
+Freelancers should keep:
+
+â€¢ Signed agreement.
+â€¢ Proposal.
+â€¢ Invoice.
+â€¢ Payment receipts.
+â€¢ Emails.
+â€¢ Chat conversations.
+â€¢ Work submissions.
+â€¢ Client approvals.
+â€¢ Revision requests.
+â€¢ Final deliverables.
+
+------------------------------------------------------------
+
+Before Signing
+
+âœ“ Read every clause.
+âœ“ Confirm payment schedule.
+âœ“ Review project scope.
+âœ“ Understand revision policy.
+âœ“ Check ownership of work.
+âœ“ Read confidentiality obligations.
+âœ“ Review termination conditions.
+âœ“ Keep a signed copy.
+
+------------------------------------------------------------
+
+Common Mistakes
+
+âœ— Beginning work without a contract.
+âœ— Accepting unclear requirements.
+âœ— Delivering source files before payment if the agreement provides otherwise.
+âœ— Ignoring ownership clauses.
+âœ— Accepting unlimited revisions.
+âœ— Failing to preserve written approvals.
+
+------------------------------------------------------------
+
+Example 1
+
+Situation:
+
+A freelance web developer agrees to build an e-commerce website.
+
+Agreement Includes:
+
+âœ“ 30% advance payment.
+âœ“ Three project milestones.
+âœ“ Two free revisions.
+âœ“ Final payment before source code transfer.
+
+Result:
+
+Both parties understand the payment schedule and ownership of the completed project.
+
+------------------------------------------------------------
+
+Example 2
+
+Situation:
+
+A graphic designer delivers a company logo.
+
+The client requests ten additional revisions beyond the agreed limit.
+
+Recommended Action:
+
+Review the revision clause, explain the agreed revision policy, and discuss any additional work separately if appropriate.
+
+------------------------------------------------------------
+
+Example 3
+
+Situation:
+
+A business consultant prepares a confidential market analysis report.
+
+The agreement includes confidentiality obligations.
+
+Recommended Action:
+
+Preserve confidential information and use it only for the agreed consulting purpose.
+
+------------------------------------------------------------
+
+Frequently Asked Questions
+
+Q: Should freelancers always use written contracts?
+
+A:
+
+Written contracts clearly define project expectations, payment terms, deliverables, and responsibilities, making them useful for reducing misunderstandings.
+
+------------------------------------------------------------
+
+Q: Who owns the completed work?
+
+A:
+
+Ownership depends on the agreement. Some contracts transfer ownership after full payment, while others provide only limited usage rights.
+
+------------------------------------------------------------
+
+Q: Should I request an advance payment?
+
+A:
+
+Many freelance agreements include advance or milestone payments. The payment structure depends on the agreement between the parties.
+
+------------------------------------------------------------
+
+Checklist Before Starting a Project
+
+â–¡ Define the scope of work.
+â–¡ Confirm payment schedule.
+â–¡ Agree on revisions.
+â–¡ Verify deadlines.
+â–¡ Review ownership clauses.
+â–¡ Understand confidentiality.
+â–¡ Preserve written communications.
+â–¡ Keep a signed agreement.
+
+------------------------------------------------------------
+
+Risk Assessment
+
+LOW RISK
+
+âœ“ Written agreement.
+âœ“ Clear payment schedule.
+âœ“ Defined deliverables.
+âœ“ Limited revisions.
+âœ“ Clear ownership.
+
+------------------------------------------------------------
+
+MEDIUM RISK
+
+âš  Vague scope.
+âš  Missing milestones.
+âš  Broad confidentiality.
+âš  Delayed approval process.
+
+------------------------------------------------------------
+
+HIGH RISK
+
+âš  No written agreement.
+âš  No payment schedule.
+âš  Unlimited revisions.
+âš  Unclear ownership.
+âš  No termination clause.
+âš  No evidence of approval.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. Freelance and consulting agreements depend on the wording of the contract, applicable law, and the facts of each situation.

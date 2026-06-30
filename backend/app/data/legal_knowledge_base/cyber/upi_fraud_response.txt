@@ -1,0 +1,48 @@
+TITLE: UPI Fraud Response Guide
+DOMAIN: CYBER
+CATEGORY: Cyber Rights
+TOPICS: UPI fraud, online scam, bank fraud, cybercrime, payment fraud, digital fraud
+
+OVERVIEW:
+UPI fraud occurs when criminals trick individuals into transferring money, sharing sensitive information, or approving fraudulent transactions.
+
+COMMON FRAUD METHODS:
+
+- Fake payment requests
+- QR code scams
+- OTP scams
+- Customer care fraud
+- Screen sharing scams
+- Investment scams
+
+IMMEDIATE ACTIONS:
+
+1. Contact the Bank
+Report the unauthorized transaction immediately.
+
+2. Report Through Official Channels
+Submit a complaint through official cybercrime reporting mechanisms.
+
+3. Preserve Evidence
+Save screenshots, messages, transaction IDs, and call details.
+
+4. Secure Accounts
+Change passwords and review account activity.
+
+IMPORTANT INFORMATION TO SAVE:
+
+- Transaction ID
+- Bank account details
+- Screenshots
+- Phone numbers used by scammers
+- SMS messages
+
+WHAT TO AVOID:
+
+- Sharing OTPs
+- Sharing PINs
+- Installing unknown apps
+- Clicking suspicious links
+
+DISCLAIMER:
+This document is intended for educational and informational purposes only and does not constitute legal advice.

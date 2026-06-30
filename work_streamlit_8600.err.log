@@ -1,0 +1,137 @@
+2026-06-20 09:46:33.443 Uvicorn server started on 127.0.0.1:8600
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Fatal Python error: _PySemaphore_Wakeup: parking_lot: ReleaseSemaphore failed
+Python runtime state: initialized
+
+Thread 0x00003cd4 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 359 in wait
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\queue.py", line 202 in get
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 1018 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x000088d4 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 359 in wait
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\queue.py", line 202 in get
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 1018 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x00007100 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 359 in wait
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\queue.py", line 202 in get
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 1018 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x00009480 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 359 in wait
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\queue.py", line 202 in get
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\watchdog\observers\api.py", line 379 in dispatch_events
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\watchdog\observers\api.py", line 213 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x0000560c (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\watcher\polling_path_watcher.py", line 90 in task
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 93 in _worker
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 994 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x0000232c (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 90 in _worker
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 994 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Current thread 0x00006774 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 179 in submit
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\watcher\polling_path_watcher.py", line 93 in _schedule
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\watcher\polling_path_watcher.py", line 119 in _check_if_path_changed
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\watcher\polling_path_watcher.py", line 91 in task
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 93 in _worker
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 994 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x00002bf0 (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\watcher\polling_path_watcher.py", line 90 in task
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 93 in _worker
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 994 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1043 in _bootstrap_inner
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1014 in _bootstrap
+
+Thread 0x000098dc (most recent call first):
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py", line 775 in _poll
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py", line 446 in select
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 2004 in _run_once
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 683 in run_forever
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 712 in run_until_complete
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\web\bootstrap.py", line 428 in run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\web\cli.py", line 325 in _main_run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\web\cli.py", line 251 in main_run
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\click\core.py", line 877 in invoke
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\click\core.py", line 1308 in invoke
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\click\core.py", line 1912 in invoke
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\click\core.py", line 1445 in main
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\click\core.py", line 1524 in __call__
+  File "C:\Users\Rahul\AppData\Local\Programs\Python\Python313\Lib\site-packages\streamlit\__main__.py", line 20 in <module>
+  File "<frozen runpy>", line 88 in _run_code
+  File "<frozen runpy>", line 198 in _run_module_as_main
+
+Extension modules: google._upb._message, httptools.parser.parser, httptools.parser.url_parser, charset_normalizer.md, charset_normalizer.cd (total: 5)

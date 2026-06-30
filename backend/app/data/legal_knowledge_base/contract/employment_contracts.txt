@@ -1,0 +1,296 @@
+﻿Title: Employment Contracts
+
+DOMAIN: CONTRACT
+TOPICS: employment contract, notice period, salary, termination, workplace rights
+
+Category:
+Contract Law
+
+Overview:
+
+An employment contract is a legally binding agreement between an employer and an employee. It defines the rights, responsibilities, duties, benefits, and conditions of employment for both parties.
+
+Employment contracts help reduce misunderstandings by clearly describing the expectations of both the employer and the employee.
+
+------------------------------------------------------------
+
+Purpose of an Employment Contract
+
+An employment contract is generally used to:
+
+â€¢ Define job responsibilities.
+â€¢ Specify salary and benefits.
+â€¢ Establish working hours.
+â€¢ Explain leave policies.
+â€¢ Describe probation conditions.
+â€¢ Define notice periods.
+â€¢ Explain termination procedures.
+â€¢ Protect confidential business information.
+
+------------------------------------------------------------
+
+Common Clauses
+
+Employment contracts commonly include:
+
+âœ“ Employee name
+âœ“ Employer details
+âœ“ Job title
+âœ“ Department
+âœ“ Work location
+âœ“ Date of joining
+âœ“ Salary
+âœ“ Working hours
+âœ“ Leave policy
+âœ“ Probation period
+âœ“ Notice period
+âœ“ Confidentiality obligations
+âœ“ Code of conduct
+âœ“ Termination conditions
+âœ“ Dispute resolution
+
+------------------------------------------------------------
+
+Salary Clause
+
+The contract usually specifies:
+
+â€¢ Basic salary
+â€¢ Allowances
+â€¢ Incentives
+â€¢ Bonuses
+â€¢ Payment schedule
+â€¢ Salary revision policy
+
+Employees should verify that the agreed salary matches the written contract before signing.
+
+------------------------------------------------------------
+
+Working Hours
+
+Employment contracts generally specify:
+
+â€¢ Daily working hours
+â€¢ Weekly working hours
+â€¢ Office timing
+â€¢ Break periods
+â€¢ Weekly holidays
+â€¢ Overtime policy (if applicable)
+
+------------------------------------------------------------
+
+Leave Benefits
+
+The contract may describe:
+
+â€¢ Casual leave
+â€¢ Sick leave
+â€¢ Earned leave
+â€¢ Public holidays
+â€¢ Maternity or paternity leave (where applicable)
+â€¢ Leave approval process
+
+------------------------------------------------------------
+
+Probation Period
+
+Many employment contracts include a probation period during which performance is evaluated.
+
+The contract should clearly explain:
+
+â€¢ Probation duration
+â€¢ Performance expectations
+â€¢ Confirmation process
+â€¢ Extension conditions (if any)
+
+------------------------------------------------------------
+
+Notice Period
+
+Notice period clauses explain how employment may end.
+
+The contract may specify:
+
+â€¢ Notice required by employee.
+â€¢ Notice required by employer.
+â€¢ Salary in lieu of notice (if applicable).
+
+Always read this section carefully before resigning.
+
+------------------------------------------------------------
+
+Termination Clause
+
+The contract should explain:
+
+â€¢ Grounds for termination.
+â€¢ Required notice.
+â€¢ Final settlement process.
+â€¢ Return of company property.
+â€¢ Outstanding payments.
+
+------------------------------------------------------------
+
+Confidentiality
+
+Many employment contracts include confidentiality obligations.
+
+Employees may be required to protect:
+
+â€¢ Company documents.
+â€¢ Customer information.
+â€¢ Business strategies.
+â€¢ Source code.
+â€¢ Financial information.
+â€¢ Internal communications.
+
+------------------------------------------------------------
+
+Intellectual Property
+
+Some employment contracts state that work created during employment belongs to the employer.
+
+Examples:
+
+â€¢ Software
+â€¢ Designs
+â€¢ Reports
+â€¢ Research
+â€¢ Technical documents
+
+Employees should understand these clauses before signing.
+
+------------------------------------------------------------
+
+Code of Conduct
+
+Contracts may require employees to:
+
+âœ“ Follow workplace policies.
+âœ“ Maintain professional behaviour.
+âœ“ Protect confidential information.
+âœ“ Avoid conflicts of interest.
+âœ“ Follow security procedures.
+
+------------------------------------------------------------
+
+Documents to Preserve
+
+Employees should keep copies of:
+
+â€¢ Signed employment contract.
+â€¢ Offer letter.
+â€¢ Appointment letter.
+â€¢ Salary slips.
+â€¢ Performance reviews.
+â€¢ Emails.
+â€¢ Promotion letters.
+â€¢ Termination notices.
+â€¢ Experience certificate.
+
+------------------------------------------------------------
+
+Before Signing
+
+âœ“ Read every clause carefully.
+âœ“ Verify salary details.
+âœ“ Confirm working hours.
+âœ“ Understand notice period.
+âœ“ Review leave policy.
+âœ“ Read confidentiality obligations.
+âœ“ Check termination conditions.
+âœ“ Keep a signed copy.
+
+------------------------------------------------------------
+
+Common Mistakes
+
+âœ— Signing without reading.
+âœ— Assuming verbal promises are part of the agreement.
+âœ— Ignoring notice period.
+âœ— Ignoring confidentiality obligations.
+âœ— Failing to keep a copy.
+âœ— Leaving blank spaces in the contract.
+
+------------------------------------------------------------
+
+Example 1
+
+Situation:
+
+A software engineer receives an offer letter.
+
+Contract Includes:
+
+âœ“ Salary â‚¹60,000/month
+âœ“ Six-month probation
+âœ“ One-month notice period
+âœ“ Hybrid work policy
+âœ“ Paid leave
+âœ“ Confidentiality agreement
+
+Result:
+
+Both employer and employee understand their responsibilities.
+
+------------------------------------------------------------
+
+Example 2
+
+Situation:
+
+An employee resigns immediately without checking the notice period.
+
+Possible Issue:
+
+The employment contract requires a one-month notice or payment in lieu of notice.
+
+Recommended Action:
+
+Review the employment contract before resigning and communicate with the employer regarding applicable contractual obligations.
+
+------------------------------------------------------------
+
+Frequently Asked Questions
+
+Q: Is an employment contract always required?
+
+A:
+
+Employment practices vary depending on the employer and applicable law. Written contracts are generally recommended because they clearly define the rights and obligations of both parties.
+
+------------------------------------------------------------
+
+Q: Can an employer change my salary without updating the contract?
+
+A:
+
+Changes to important employment terms are generally expected to be documented and communicated appropriately. Employees should review any revised agreement before accepting changes.
+
+------------------------------------------------------------
+
+Q: Should I keep a copy of my employment contract?
+
+A:
+
+Yes. Employees should always keep a signed copy together with related employment documents.
+
+------------------------------------------------------------
+
+Checklist Before Accepting a Job
+
+â–¡ Verify salary.
+â–¡ Verify designation.
+â–¡ Read the notice period.
+â–¡ Understand probation.
+â–¡ Read confidentiality clauses.
+â–¡ Check leave policy.
+â–¡ Review termination conditions.
+â–¡ Understand intellectual property clauses.
+â–¡ Keep a signed copy.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. Employment rights and contractual obligations depend on the employment agreement, applicable labour laws, and the facts of each situation.

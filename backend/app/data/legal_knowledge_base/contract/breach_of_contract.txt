@@ -1,0 +1,248 @@
+﻿Title: Breach of Contract
+
+DOMAIN: CONTRACT
+TOPICS: contract breach, agreement violation, remedies, damages
+
+Category:
+Contract Law
+
+Overview:
+
+A breach of contract occurs when one party fails to perform one or more obligations that were agreed upon in a valid contract without a lawful justification.
+
+A breach may involve failing to perform, performing incompletely, performing late, or refusing to perform the agreed obligations.
+
+------------------------------------------------------------
+
+What Is a Breach of Contract?
+
+A breach happens when a person or organization does not fulfill the promises made in a contract.
+
+Examples include:
+
+â€¢ Not paying the agreed amount.
+â€¢ Failing to deliver goods or services.
+â€¢ Delivering poor-quality work that does not meet the contract.
+â€¢ Missing important deadlines.
+â€¢ Refusing to perform contractual obligations.
+â€¢ Ending the agreement without following the agreed procedure.
+
+------------------------------------------------------------
+
+Common Examples
+
+Employment
+
+â€¢ Employer fails to pay salary.
+â€¢ Employee leaves without required notice.
+â€¢ Employer ignores agreed benefits.
+
+Rental Agreement
+
+â€¢ Tenant refuses to pay rent.
+â€¢ Landlord refuses to return the security deposit.
+â€¢ Property is not maintained as promised.
+
+Service Agreement
+
+â€¢ Freelancer never completes the project.
+â€¢ Client refuses to make payment after work is completed.
+â€¢ Services delivered do not match the agreement.
+
+Consumer Purchase
+
+â€¢ Seller never delivers the product.
+â€¢ Wrong product is delivered.
+â€¢ Defective goods are supplied despite contractual promises.
+
+Business Agreement
+
+â€¢ Supplier misses delivery deadlines.
+â€¢ One company refuses payment after receiving goods.
+â€¢ Contractual obligations are ignored.
+
+------------------------------------------------------------
+
+Types of Breach
+
+1. Minor Breach
+
+A small violation that does not completely destroy the purpose of the agreement.
+
+Example:
+
+A contractor finishes work two days late but completes the project successfully.
+
+------------------------------------------------------------
+
+2. Material Breach
+
+A serious violation that prevents the other party from receiving the main benefit of the contract.
+
+Example:
+
+A company receives payment but never delivers the product.
+
+------------------------------------------------------------
+
+3. Anticipatory Breach
+
+One party clearly states, before the deadline, that they will not perform their obligations.
+
+Example:
+
+A supplier informs the buyer that the ordered goods will never be delivered.
+
+------------------------------------------------------------
+
+4. Actual Breach
+
+The agreed performance date arrives and the party simply fails to perform.
+
+------------------------------------------------------------
+
+Possible Rights After a Breach
+
+Depending on the contract and applicable law, a party may have the right to:
+
+âœ“ Request performance of contractual obligations.
+âœ“ Request payment of outstanding amounts.
+âœ“ Seek compensation for losses.
+âœ“ Terminate the contract where legally permitted.
+âœ“ Resolve disputes through negotiation, mediation, arbitration, or court proceedings.
+âœ“ Preserve evidence supporting the claim.
+
+------------------------------------------------------------
+
+Recommended Actions
+
+âœ“ Read the contract carefully.
+âœ“ Identify the exact clause that has been violated.
+âœ“ Keep all communications.
+âœ“ Save invoices and receipts.
+âœ“ Preserve emails and chat messages.
+âœ“ Record important dates.
+âœ“ Request a written explanation from the other party.
+âœ“ Attempt a reasonable resolution before escalating the dispute.
+
+------------------------------------------------------------
+
+Evidence to Preserve
+
+â€¢ Signed contract.
+â€¢ Payment receipts.
+â€¢ Bank transaction records.
+â€¢ Email correspondence.
+â€¢ WhatsApp or SMS conversations.
+â€¢ Delivery receipts.
+â€¢ Invoices.
+â€¢ Screenshots.
+â€¢ Photographs (if relevant).
+â€¢ Written notices.
+
+------------------------------------------------------------
+
+Common Warning Signs
+
+âš  Repeated missed deadlines.
+âš  Refusal to communicate.
+âš  Requests for additional payment without agreement.
+âš  Sudden disappearance after receiving payment.
+âš  Repeated excuses without progress.
+âš  Refusal to provide written confirmation.
+
+------------------------------------------------------------
+
+What Not To Do
+
+âœ— Destroy evidence.
+âœ— Ignore written notices.
+âœ— Make threats or abusive communications.
+âœ— Sign new agreements without reading them.
+âœ— Continue making payments without understanding the situation.
+
+------------------------------------------------------------
+
+Example 1
+
+Situation:
+
+A freelancer was hired to develop a mobile application.
+
+The client paid 50% in advance.
+
+The freelancer stopped responding and never completed the work.
+
+Possible Issues:
+
+âœ“ Failure to perform agreed services.
+âœ“ Financial loss.
+âœ“ Potential breach of contract.
+
+Recommended Steps:
+
+â€¢ Preserve the contract.
+â€¢ Save payment records.
+â€¢ Keep all communications.
+â€¢ Request completion or refund in writing.
+â€¢ Consider available dispute resolution mechanisms.
+
+------------------------------------------------------------
+
+Example 2
+
+Situation:
+
+A company promised to deliver office furniture within 30 days.
+
+Three months passed without delivery.
+
+Possible Issues:
+
+âœ“ Failure to deliver goods.
+âœ“ Delay causing business losses.
+
+Recommended Steps:
+
+â€¢ Preserve purchase documents.
+â€¢ Request written clarification.
+â€¢ Review cancellation rights.
+â€¢ Preserve evidence of financial losses.
+
+------------------------------------------------------------
+
+Frequently Asked Questions
+
+Q: Is every broken promise a breach of contract?
+
+A:
+
+Not necessarily. Whether a breach exists depends on the contract terms, applicable law, and the surrounding facts.
+
+------------------------------------------------------------
+
+Q: Can a contract be terminated after a serious breach?
+
+A:
+
+Some contracts and legal systems allow termination following a material breach, but this depends on the agreement and applicable law.
+
+------------------------------------------------------------
+
+Q: What should I do first after discovering a breach?
+
+A:
+
+Review the contract, preserve evidence, communicate in writing where appropriate, and understand the available dispute resolution process before taking further action.
+
+------------------------------------------------------------
+
+Important Reminder
+
+A breach of contract does not automatically determine legal liability. The outcome depends on the contract terms, applicable law, available evidence, and the facts of the dispute.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. Contract disputes depend on the specific agreement, applicable law, and individual circumstances.

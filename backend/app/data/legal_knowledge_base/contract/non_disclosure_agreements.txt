@@ -1,0 +1,260 @@
+﻿Title: Non-Disclosure Agreements (NDA)
+
+DOMAIN: CONTRACT
+TOPICS: NDA, confidentiality, disclosure, trade secrets
+
+Category:
+Contract Law
+
+Overview:
+
+A Non-Disclosure Agreement (NDA), also called a Confidentiality Agreement, is a contract in which one or more parties agree not to disclose certain confidential information to unauthorized persons.
+
+NDAs are commonly used in employment, business partnerships, software development, research, consulting, investments, and commercial negotiations.
+
+------------------------------------------------------------
+
+Purpose of an NDA
+
+An NDA is generally intended to:
+
+â€¢ Protect confidential information.
+â€¢ Prevent unauthorized disclosure.
+â€¢ Define how confidential information may be used.
+â€¢ Clarify the responsibilities of each party.
+â€¢ Reduce the risk of business information being misused.
+
+------------------------------------------------------------
+
+Common Situations
+
+NDAs are commonly used for:
+
+âœ“ Employment.
+âœ“ Software development.
+âœ“ Startup funding discussions.
+âœ“ Business partnerships.
+âœ“ Research collaborations.
+âœ“ Product development.
+âœ“ Consulting services.
+âœ“ Vendor relationships.
+
+------------------------------------------------------------
+
+Common Clauses
+
+An NDA typically includes:
+
+âœ“ Parties involved.
+âœ“ Definition of confidential information.
+âœ“ Purpose of disclosure.
+âœ“ Permitted use.
+âœ“ Confidentiality obligations.
+âœ“ Exceptions.
+âœ“ Duration.
+âœ“ Return or destruction of information.
+âœ“ Termination.
+âœ“ Dispute resolution.
+
+------------------------------------------------------------
+
+Confidential Information
+
+Confidential information may include:
+
+â€¢ Business strategies.
+â€¢ Financial records.
+â€¢ Customer lists.
+â€¢ Source code.
+â€¢ Software architecture.
+â€¢ Product designs.
+â€¢ Research data.
+â€¢ Marketing plans.
+â€¢ Technical documents.
+â€¢ Trade secrets.
+
+------------------------------------------------------------
+
+Information Usually Not Considered Confidential
+
+Many NDAs exclude information that:
+
+âœ“ Is already publicly available.
+âœ“ Was independently developed.
+âœ“ Was lawfully obtained from another source.
+âœ“ Must be disclosed by law or court order.
+
+Always read the specific agreement because exclusions may differ.
+
+------------------------------------------------------------
+
+Obligations of the Receiving Party
+
+A person receiving confidential information may be expected to:
+
+âœ“ Keep information confidential.
+âœ“ Use it only for the agreed purpose.
+âœ“ Prevent unauthorized access.
+âœ“ Protect documents and digital files.
+âœ“ Return or destroy information if required.
+
+------------------------------------------------------------
+
+Obligations of the Disclosing Party
+
+The party sharing information should:
+
+âœ“ Clearly identify confidential material.
+âœ“ Explain the permitted purpose.
+âœ“ Provide information only when necessary.
+âœ“ Preserve copies of important documents.
+
+------------------------------------------------------------
+
+Duration
+
+Many NDAs specify:
+
+â€¢ Start date.
+â€¢ Duration of confidentiality.
+â€¢ Expiry date.
+â€¢ Continuing obligations after termination.
+
+Always check whether confidentiality continues after employment or business relationships end.
+
+------------------------------------------------------------
+
+Return or Destruction of Information
+
+Many agreements require the receiving party to:
+
+âœ“ Return confidential documents.
+âœ“ Delete digital copies where required.
+âœ“ Destroy backup copies if applicable.
+âœ“ Confirm destruction if requested.
+
+------------------------------------------------------------
+
+Common Risks
+
+âš  Very broad definitions of confidential information.
+âš  Extremely long confidentiality periods.
+âš  Unlimited liability.
+âš  Restrictions that are difficult to follow.
+âš  Unclear ownership of created work.
+âš  Missing exceptions.
+
+------------------------------------------------------------
+
+Documents to Preserve
+
+Keep copies of:
+
+â€¢ Signed NDA.
+â€¢ Emails.
+â€¢ Meeting notes.
+â€¢ Shared documents.
+â€¢ File transfer records.
+â€¢ Approval emails.
+â€¢ Confidentiality notices.
+â€¢ Termination notices.
+
+------------------------------------------------------------
+
+Before Signing
+
+âœ“ Read every clause carefully.
+âœ“ Understand what information is confidential.
+âœ“ Review confidentiality duration.
+âœ“ Check permitted uses.
+âœ“ Understand exceptions.
+âœ“ Review return or destruction obligations.
+âœ“ Keep a signed copy.
+
+------------------------------------------------------------
+
+Common Mistakes
+
+âœ— Signing without reading.
+âœ— Sharing confidential information casually.
+âœ— Uploading confidential files to public platforms.
+âœ— Forgetting that confidentiality may continue after employment.
+âœ— Assuming every piece of information is confidential.
+âœ— Ignoring exceptions written in the agreement.
+
+------------------------------------------------------------
+
+Example 1
+
+Situation:
+
+A software engineer joins a technology company.
+
+The NDA requires the engineer to protect:
+
+âœ“ Source code.
+âœ“ Internal documentation.
+âœ“ Customer information.
+âœ“ Product roadmap.
+
+Result:
+
+The engineer should avoid sharing this information outside authorized business purposes.
+
+------------------------------------------------------------
+
+Example 2
+
+Situation:
+
+A startup discusses a new product with potential investors.
+
+Before sharing technical documents, both parties sign an NDA.
+
+Result:
+
+The agreement helps protect confidential business information during discussions.
+
+------------------------------------------------------------
+
+Frequently Asked Questions
+
+Q: What is an NDA?
+
+A:
+
+An NDA is a contract that requires one or more parties to keep specified information confidential and use it only for the agreed purpose.
+
+------------------------------------------------------------
+
+Q: Does an NDA last forever?
+
+A:
+
+Not necessarily. Many NDAs specify a defined confidentiality period, while some obligations may continue depending on the agreement and applicable law.
+
+------------------------------------------------------------
+
+Q: Can confidential information ever be disclosed?
+
+A:
+
+Some agreements permit disclosure in limited situations, such as when required by law, court order, or where specific contractual exceptions apply.
+
+------------------------------------------------------------
+
+Checklist Before Signing
+
+â–¡ Identify confidential information.
+â–¡ Review confidentiality period.
+â–¡ Check permitted uses.
+â–¡ Understand exceptions.
+â–¡ Review return/destruction obligations.
+â–¡ Check liability clauses.
+â–¡ Keep a signed copy.
+
+------------------------------------------------------------
+
+Disclaimer
+
+This document provides general legal information for educational purposes only. Confidentiality obligations depend on the wording of the agreement, applicable law, and the facts of each situation.

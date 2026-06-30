@@ -1,0 +1,16 @@
+TITLE: Cyber Law India
+DOMAIN: CYBER
+CATEGORY: Cyber Rights
+TOPICS: cyber law, online fraud, phishing, identity theft, cyberstalking, reporting
+
+Cyber Law India - Local Knowledge Note
+
+Cyber incidents may include financial fraud, phishing, identity theft, account takeover, cyberstalking, impersonation, data misuse, and online harassment.
+
+Users should preserve screenshots, URLs, phone numbers, email headers, transaction IDs, bank messages, app notifications, and timestamps.
+
+For financial cyber fraud, fast reporting can be important. Record the complaint number and inform the bank or payment provider quickly.
+
+Do not delete evidence before preserving copies. Avoid sharing OTPs, passwords, or remote access with unknown persons.
+
+Source note: Cyber law and reporting-oriented project knowledge note for educational use.
